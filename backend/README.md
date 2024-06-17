@@ -1,0 +1,4 @@
+# Basic Requirements
+
+- Express
+- CORS
